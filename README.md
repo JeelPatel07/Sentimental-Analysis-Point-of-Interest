@@ -9,4 +9,4 @@ review data which is collected from various social media is analyzed.
 
 # Dataset
 
-<a href="http://tour-pedia.org/about/datasets.html" rel="nofollow" Tourpedia>
+Tourpedia:- http://tour-pedia.org/about/datasets.html 
