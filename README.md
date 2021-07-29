@@ -10,3 +10,9 @@ review data which is collected from various social media is analyzed.
 # Dataset
 
 Tourpedia:- http://tour-pedia.org/about/datasets.html 
+
+# Research Paper
+
+This research work appeared in the following article
+
+https://link.springer.com/chapter/10.1007%2F978-981-15-5243-4_36
